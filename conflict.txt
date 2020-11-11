@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-this is the conflict
-=======
+Hello Hi 
+
+
 This is the conflict
->>>>>>> 3adf74c92d6490c7b0f52224851a6d8d15499a8a
+
